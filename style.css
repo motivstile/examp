@@ -178,6 +178,7 @@ HEADER button{
     background-color: #222222   ;
 }
 .blue{
+    color: #eee;
     align-items: center;
     display: flex;
     justify-content: space-evenly;
